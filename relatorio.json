@@ -1,0 +1,166 @@
+{
+  "autor": "Thierry Vanden Broucke",
+  "data_versao": "2026-05-18",
+  "versao": "1.0.3",
+  "gerado_em": "2026-05-18",
+  "total_transacoes_validas": 159,
+  "total_transacoes_invalidas": 12,
+  "total_transacoes_lidas": 171,
+  "total_transacoes_duplicadas": 0,
+  "periodo_analisado": {
+    "data_inicial": "2026-01-03",
+    "data_final": "2026-11-20",
+    "dias_entre_datas": 321
+  },
+  "resumo_mensal": {
+    "2026-01": {
+      "quantidade": 13,
+      "total_credito": 19072.75,
+      "total_debito": 3885.2000000000003,
+      "saldo": 15187.55,
+      "media": 1765.996153846154,
+      "maior_valor": 4581.75,
+      "menor_valor": 81.4
+    },
+    "2026-02": {
+      "quantidade": 15,
+      "total_credito": 22711.0,
+      "total_debito": 17227.99,
+      "saldo": 5483.009999999998,
+      "media": 2662.5993333333336,
+      "maior_valor": 12285.99,
+      "menor_valor": 117.4
+    },
+    "2026-03": {
+      "quantidade": 15,
+      "total_credito": 25396.5,
+      "total_debito": 17624.190000000002,
+      "saldo": 7772.309999999998,
+      "media": 2868.0460000000003,
+      "maior_valor": 12722.99,
+      "menor_valor": 153.4
+    },
+    "2026-04": {
+      "quantidade": 15,
+      "total_credito": 22351.0,
+      "total_debito": 6742.399999999999,
+      "saldo": 15608.600000000002,
+      "media": 1939.56,
+      "maior_valor": 6135.75,
+      "menor_valor": 59.4
+    },
+    "2026-05": {
+      "quantidade": 15,
+      "total_credito": 29056.5,
+      "total_debito": 17250.190000000002,
+      "saldo": 11806.309999999998,
+      "media": 3087.112666666667,
+      "maior_valor": 13216.99,
+      "menor_valor": 95.4
+    },
+    "2026-06": {
+      "quantidade": 15,
+      "total_credito": 21991.0,
+      "total_debito": 5332.4,
+      "saldo": 16658.6,
+      "media": 1821.5600000000002,
+      "maior_valor": 6045.75,
+      "menor_valor": 48.4
+    },
+    "2026-07": {
+      "quantidade": 16,
+      "total_credito": 35614.74,
+      "total_debito": 18897.59,
+      "saldo": 16717.149999999998,
+      "media": 3407.020625,
+      "maior_valor": 13976.99,
+      "menor_valor": 84.4
+    },
+    "2026-08": {
+      "quantidade": 15,
+      "total_credito": 35979.25,
+      "total_debito": 3179.85,
+      "saldo": 32799.4,
+      "media": 2610.6066666666666,
+      "maior_valor": 11890.0,
+      "menor_valor": 120.4
+    },
+    "2026-09": {
+      "quantidade": 14,
+      "total_credito": 22625.55,
+      "total_debito": 4614.349999999999,
+      "saldo": 18011.2,
+      "media": 1945.7071428571428,
+      "maior_valor": 6110.75,
+      "menor_valor": 92.1
+    },
+    "2026-10": {
+      "quantidade": 16,
+      "total_credito": 37565.5,
+      "total_debito": 4640.9,
+      "saldo": 32924.6,
+      "media": 2637.9,
+      "maior_valor": 12440.8,
+      "menor_valor": 123.9
+    },
+    "2026-11": {
+      "quantidade": 10,
+      "total_credito": 27114.3,
+      "total_debito": 3223.95,
+      "saldo": 23890.35,
+      "media": 3033.825,
+      "maior_valor": 13275.55,
+      "menor_valor": 176.2
+    }
+  },
+  "transacoes_suspeitas": [
+    {
+      "id": 15,
+      "cliente_id": "PF-CENTRO-311",
+      "data": "2026-02-04",
+      "valor": 12285.99
+    },
+    {
+      "id": 38,
+      "cliente_id": "PJ-ORION-208",
+      "data": "2026-03-20",
+      "valor": 12722.99
+    },
+    {
+      "id": 64,
+      "cliente_id": "PJ-ATLAS-417",
+      "data": "2026-05-12",
+      "valor": 13216.99
+    },
+    {
+      "id": 89,
+      "cliente_id": "PF-NORTE-001",
+      "data": "2026-07-01",
+      "valor": 13691.99
+    },
+    {
+      "id": 104,
+      "cliente_id": "PJ-ATLAS-417",
+      "data": "2026-07-31",
+      "valor": 13976.99
+    },
+    {
+      "id": 128,
+      "cliente_id": "PF-NORTE-001",
+      "data": "2026-08-29",
+      "valor": 11890.0
+    },
+    {
+      "id": 146,
+      "cliente_id": "PF-LESTE-027",
+      "data": "2026-10-05",
+      "valor": 12440.8
+    },
+    {
+      "id": 165,
+      "cliente_id": "PJ-ORION-208",
+      "data": "2026-11-12",
+      "valor": 13275.55
+    }
+  ]
+}

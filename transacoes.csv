@@ -1,0 +1,172 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+1,2026-01-03,PF-NORTE-001,credito,2937.75,Recebimento de bonus trimestral,bonus
+2,2026-01-06,PF-SUL-014,debito,211.40,Almoco em restaurante,alimentacao
+3,2026-01-09,PF-LESTE-027,debito,294.40,Compra de vestuario,vestuario
+4,2026-01-12,PF-OESTE-033,debito,377.40,Abastecimento do veiculo,transporte
+5,2026-01-15,PJ-ALFA-102,credito,3485.75,Recebimento de salario mensal,salario
+6,2026-01-13,PJ-ORION-208,debito,543.40,Pagamento de aluguel,moradia
+7,2026-01-16,PF-CENTRO-311,credito,3759.75,Pagamento de servico freelancer,freelance
+8,2026-01-19,PJ-ATLAS-417,debito,709.40,Pagamento de internet residencial,internet
+9,2026-01-22,PF-NORTE-001,debito,792.40,Pagamento de conta de agua,agua
+10,2026-01-25,PF-SUL-014,debito,875.40,Mensalidade escolar,educacao
+11,2026-01-23,PF-LESTE-027,credito,4307.75,Recebimento de bonus trimestral,bonus
+12,2026-01-26,PF-OESTE-033,debito,81.40,Assinatura de streaming,streaming
+13,2026-01-29,PJ-ALFA-102,credito,4581.75,Transferencia recebida entre contas,transferencia
+14,2026-02-01,PJ-ORION-208,debito,247.40,Plano de musica digital,musica
+15,2026-02-04,PF-CENTRO-311,debito,12285.99,Servico de armazenamento em nuvem,nuvem
+16,2026-02-02,PJ-ATLAS-417,debito,413.40,Transferencia para reserva financeira,transferencia
+17,2026-02-05,PF-NORTE-001,credito,5129.75,Pagamento de servico freelancer,freelance
+18,2026-02-08,PF-SUL-014,debito,579.40,Pagamento via transferencia bancaria,transferencia
+19,2026-02-11,PF-LESTE-027,credito,5403.75,Estorno de cobranca,estorno
+20,2026-02-14,PF-OESTE-033,debito,745.40,Compra em farmacia,farmacia
+21,2026-02-12,PJ-ALFA-102,debito,828.40,Almoco em restaurante,alimentacao
+22,2026-02-15,PJ-ORION-208,debito,911.40,Compra de vestuario,vestuario
+23,2026-02-18,PF-CENTRO-311,credito,5951.75,Transferencia recebida entre contas,transferencia
+24,2026-02-21,PJ-ATLAS-417,debito,117.40,Compra de itens para casa,lar
+25,2026-02-24,PF-NORTE-001,credito,6225.75,Recebimento de salario mensal,salario
+26,2026-02-22,PF-SUL-014,debito,283.40,Pagamento de conta de energia,energia
+27,2026-02-25,PF-LESTE-027,debito,366.40,Pagamento de internet residencial,internet
+28,2026-02-28,PF-OESTE-033,debito,449.40,Pagamento de conta de agua,agua
+29,2026-03-03,PJ-ALFA-102,credito,6773.75,Estorno de cobranca,estorno
+30,2026-03-06,PJ-ORION-208,debito,615.40,Pagamento de plano de saude,saude
+31,2026-03-04,PF-CENTRO-311,credito,2847.75,Recebimento de bonus trimestral,bonus
+32,2026-03-07,PJ-ATLAS-417,debito,781.40,Licenca de software profissional,software
+33,2026-03-10,PF-NORTE-001,debito,864.40,Plano de musica digital,musica
+34,2026-03-13,PF-SUL-014,debito,947.40,Servico de armazenamento em nuvem,nuvem
+35,2026-03-16,PF-LESTE-027,credito,3395.75,Recebimento de salario mensal,salario
+36,2026-03-14,PF-OESTE-033,debito,153.40,Transferencia para outra conta,transferencia
+37,2026-03-17,PJ-ALFA-102,credito,3669.75,Pagamento de servico freelancer,freelance
+38,2026-03-20,PJ-ORION-208,debito,12722.99,Compra em supermercado de bairro,mercado
+39,2026-03-23,PF-CENTRO-311,debito,402.40,Compra em farmacia,farmacia
+40,2026-03-26,PJ-ATLAS-417,debito,485.40,Almoco em restaurante,alimentacao
+41,2026-03-24,PF-NORTE-001,credito,4217.75,Recebimento de bonus trimestral,bonus
+42,2026-03-27,PF-SUL-014,debito,651.40,Abastecimento do veiculo,transporte
+43,2026-03-30,PF-LESTE-027,credito,4491.75,Transferencia recebida entre contas,transferencia
+44,2026-04-02,PF-OESTE-033,debito,817.40,Pagamento de aluguel,moradia
+45,2026-04-05,PJ-ALFA-102,debito,900.40,Pagamento de conta de energia,energia
+46,2026-04-03,PJ-ORION-208,debito,983.40,Pagamento de internet residencial,internet
+47,2026-04-06,PF-CENTRO-311,credito,5039.75,Pagamento de servico freelancer,freelance
+48,2026-04-09,PJ-ATLAS-417,debito,189.40,Mensalidade escolar,educacao
+49,2026-04-12,PF-NORTE-001,credito,5313.75,Estorno de cobranca,estorno
+50,2026-04-15,PF-SUL-014,debito,355.40,Assinatura de streaming,streaming
+51,2026-04-13,PF-LESTE-027,debito,438.40,Licenca de software profissional,software
+52,2026-04-16,PF-OESTE-033,debito,521.40,Plano de musica digital,musica
+53,2026-04-19,PJ-ALFA-102,credito,5861.75,Transferencia recebida entre contas,transferencia
+54,2026-04-22,PJ-ORION-208,debito,687.40,Transferencia para reserva financeira,transferencia
+55,2026-04-25,PF-CENTRO-311,credito,6135.75,Recebimento de salario mensal,salario
+56,2026-04-23,PJ-ATLAS-417,debito,853.40,Pagamento via transferencia bancaria,transferencia
+57,2026-04-26,PF-NORTE-001,debito,936.40,Compra em supermercado de bairro,mercado
+58,2026-04-29,PF-SUL-014,debito,59.40,Compra em farmacia,farmacia
+59,2026-05-02,PF-LESTE-027,credito,6683.75,Estorno de cobranca,estorno
+60,2026-05-05,PF-OESTE-033,debito,225.40,Compra de vestuario,vestuario
+61,2026-05-03,PJ-ALFA-102,credito,6957.75,Recebimento de bonus trimestral,bonus
+62,2026-05-06,PJ-ORION-208,debito,391.40,Compra de itens para casa,lar
+63,2026-05-09,PF-CENTRO-311,debito,474.40,Pagamento de aluguel,moradia
+64,2026-05-12,PJ-ATLAS-417,debito,13216.99,Pagamento de conta de energia,energia
+65,2026-05-15,PF-NORTE-001,credito,3305.75,Recebimento de salario mensal,salario
+66,2026-05-13,PF-SUL-014,debito,723.40,Pagamento de conta de agua,agua
+67,2026-05-16,PF-LESTE-027,credito,3579.75,Pagamento de servico freelancer,freelance
+68,2026-05-19,PF-OESTE-033,debito,889.40,Pagamento de plano de saude,saude
+69,2026-05-22,PJ-ALFA-102,debito,972.40,Assinatura de streaming,streaming
+70,2026-05-25,PJ-ORION-208,debito,95.40,Licenca de software profissional,software
+71,2026-05-23,PF-CENTRO-311,credito,4127.75,Recebimento de bonus trimestral,bonus
+72,2026-05-26,PJ-ATLAS-417,debito,261.40,Servico de armazenamento em nuvem,nuvem
+73,2026-05-29,PF-NORTE-001,credito,4401.75,Transferencia recebida entre contas,transferencia
+74,2026-06-01,PF-SUL-014,debito,427.40,Transferencia para outra conta,transferencia
+75,2026-06-04,PF-LESTE-027,debito,510.40,Pagamento via transferencia bancaria,transferencia
+76,2026-06-02,PF-OESTE-033,debito,593.40,Compra em supermercado de bairro,mercado
+77,2026-06-05,PJ-ALFA-102,credito,4949.75,Pagamento de servico freelancer,freelance
+78,2026-06-08,PJ-ORION-208,debito,759.40,Almoco em restaurante,alimentacao
+79,2026-06-11,PF-CENTRO-311,credito,5223.75,Estorno de cobranca,estorno
+80,2026-06-14,PJ-ATLAS-417,debito,925.40,Abastecimento do veiculo,transporte
+81,2026-06-12,PF-NORTE-001,debito,48.40,Compra de itens para casa,lar
+82,2026-06-15,PF-SUL-014,debito,131.40,Pagamento de aluguel,moradia
+83,2026-06-18,PF-LESTE-027,credito,5771.75,Transferencia recebida entre contas,transferencia
+84,2026-06-21,PF-OESTE-033,debito,297.40,Pagamento de internet residencial,internet
+85,2026-06-24,PJ-ALFA-102,credito,6045.75,Recebimento de salario mensal,salario
+86,2026-06-22,PJ-ORION-208,debito,463.40,Mensalidade escolar,educacao
+87,2026-06-25,PF-CENTRO-311,debito,546.40,Pagamento de plano de saude,saude
+88,2026-06-28,PJ-ATLAS-417,debito,629.40,Assinatura de streaming,streaming
+89,2026-07-01,PF-NORTE-001,credito,13691.99,Estorno de cobranca,estorno
+90,2026-07-04,PF-SUL-014,debito,795.40,Plano de musica digital,musica
+91,2026-07-02,PF-LESTE-027,credito,6867.75,Recebimento de bonus trimestral,bonus
+92,2026-07-05,PF-OESTE-033,debito,961.40,Transferencia para reserva financeira,transferencia
+93,2026-07-08,PJ-ALFA-102,debito,84.40,Transferencia para outra conta,transferencia
+94,2026-07-11,PJ-ORION-208,debito,167.40,Pagamento via transferencia bancaria,transferencia
+95,2026-07-14,PF-CENTRO-311,credito,3215.75,Recebimento de salario mensal,salario
+96,2026-07-12,PJ-ATLAS-417,debito,333.40,Compra em farmacia,farmacia
+97,2026-07-15,PF-NORTE-001,credito,3489.75,Pagamento de servico freelancer,freelance
+98,2026-07-18,PF-SUL-014,debito,499.40,Compra de vestuario,vestuario
+99,2026-07-21,PF-LESTE-027,debito,582.40,Abastecimento do veiculo,transporte
+100,2026-07-24,PF-OESTE-033,debito,665.40,Compra de itens para casa,lar
+101,2026-07-22,PJ-ALFA-102,credito,4037.75,Recebimento de bonus trimestral,bonus
+102,2026-07-25,PJ-ORION-208,debito,831.40,Pagamento de conta de energia,energia
+103,2026-07-28,PF-CENTRO-311,credito,4311.75,Transferencia recebida entre contas,transferencia
+104,2026-07-31,PJ-ATLAS-417,debito,13976.99,Pagamento de conta de agua,agua
+105,2026-08-03,PF-NORTE-001,debito,120.40,Mensalidade escolar,educacao
+106,2026-08-01,PF-SUL-014,debito,203.40,Pagamento de plano de saude,saude
+107,2026-08-04,PF-LESTE-027,credito,4859.75,Pagamento de servico freelancer,freelance
+108,2026-08-07,PF-OESTE-033,debito,369.40,Licenca de software profissional,software
+109,2026-08-10,PJ-ALFA-102,credito,5133.75,Estorno de cobranca,estorno
+120,2026-08-12,PF-NORTE-001,debito,642.30,Pagamento de aluguel,moradia
+121,2026-08-14,PF-SUL-014,credito,3890.50,Recebimento de salario mensal,salario
+122,2026-08-15,PF-LESTE-027,debito,184.90,Compra em farmacia,farmacia
+123,2026-08-18,PF-OESTE-033,debito,326.40,Assinatura de streaming,streaming
+124,2026-08-20,PJ-ALFA-102,credito,5725.00,Pagamento de servico freelancer,freelance
+125,2026-08-22,PJ-ORION-208,debito,910.15,Pagamento de conta de energia,energia
+126,2026-08-24,PF-CENTRO-311,debito,268.70,Compra em supermercado de bairro,mercado
+127,2026-08-26,PJ-ATLAS-417,credito,4480.25,Transferencia recebida entre contas,transferencia
+128,2026-08-29,PF-NORTE-001,credito,11890.00,Recebimento de bonus trimestral,bonus
+129,2026-08-30,PF-SUL-014,debito,154.20,Plano de musica digital,musica
+130,2026-09-02,PF-LESTE-027,debito,703.80,Pagamento de internet residencial,internet
+131,2026-09-04,PF-OESTE-033,credito,3622.40,Estorno de cobranca,estorno
+132,2026-09-06,PJ-ALFA-102,debito,512.90,Pagamento via transferencia bancaria,transferencia
+133,2026-09-08,PJ-ORION-208,debito,118.40,Almoco em restaurante,alimentacao
+134,2026-09-10,PF-CENTRO-311,credito,4015.30,Recebimento de salario mensal,salario
+135,2026-09-12,PJ-ATLAS-417,debito,275.60,Compra de itens para casa,lar
+136,2026-09-14,PF-NORTE-001,debito,834.45,Pagamento de plano de saude,saude
+137,2026-09-16,PF-SUL-014,credito,5299.90,Pagamento de servico freelancer,freelance
+138,2026-09-18,PF-LESTE-027,debito,92.10,Licenca de software profissional,software
+139,2026-09-20,PF-OESTE-033,debito,441.25,Compra de vestuario,vestuario
+140,2026-09-22,PJ-ALFA-102,credito,6110.75,Transferencia recebida entre contas,transferencia
+141,2026-09-24,PJ-ORION-208,debito,1288.30,Pagamento de aluguel,moradia
+142,2026-09-26,PF-CENTRO-311,debito,347.55,Abastecimento do veiculo,transporte
+143,2026-09-28,PJ-ATLAS-417,credito,3577.20,Estorno de cobranca,estorno
+144,2026-10-01,PF-NORTE-001,debito,221.65,Compra em farmacia,farmacia
+145,2026-10-03,PF-SUL-014,debito,605.90,Pagamento de conta de agua,agua
+146,2026-10-05,PF-LESTE-027,credito,12440.80,Recebimento de bonus trimestral,bonus
+147,2026-10-07,PF-OESTE-033,debito,389.30,Assinatura de streaming,streaming
+148,2026-10-09,PJ-ALFA-102,credito,4730.60,Recebimento de salario mensal,salario
+149,2026-10-11,PJ-ORION-208,debito,740.00,Pagamento de conta de energia,energia
+150,2026-10-13,PF-CENTRO-311,debito,167.45,Almoco em restaurante,alimentacao
+151,2026-10-15,PJ-ATLAS-417,credito,5525.85,Pagamento de servico freelancer,freelance
+152,2026-10-17,PF-NORTE-001,debito,954.10,Mensalidade escolar,educacao
+153,2026-10-19,PF-SUL-014,credito,3655.40,Transferencia recebida entre contas,transferencia
+154,2026-10-21,PF-LESTE-027,debito,283.75,Compra em supermercado de bairro,mercado
+155,2026-10-23,PF-OESTE-033,debito,123.90,Plano de musica digital,musica
+156,2026-10-25,PJ-ALFA-102,credito,6944.10,Estorno de cobranca,estorno
+157,2026-10-27,PJ-ORION-208,debito,815.25,Pagamento de internet residencial,internet
+158,2026-10-29,PF-CENTRO-311,debito,339.60,Compra de itens para casa,lar
+159,2026-10-31,PJ-ATLAS-417,credito,4268.75,Recebimento de salario mensal,salario
+160,2026-11-02,PF-NORTE-001,debito,598.40,Pagamento via transferencia bancaria,transferencia
+161,2026-11-04,PF-SUL-014,debito,245.30,Compra de vestuario,vestuario
+162,2026-11-06,PF-LESTE-027,credito,5150.20,Pagamento de servico freelancer,freelance
+163,2026-11-08,PF-OESTE-033,debito,1105.50,Pagamento de aluguel,moradia
+164,2026-11-10,PJ-ALFA-102,debito,408.85,Licenca de software profissional,software
+165,2026-11-12,PJ-ORION-208,credito,13275.55,Recebimento de bonus trimestral,bonus
+166,2026-11-14,PF-CENTRO-311,debito,176.20,Compra em farmacia,farmacia
+167,2026-11-16,PJ-ATLAS-417,credito,4899.95,Transferencia recebida entre contas,transferencia
+168,2026-11-18,PF-NORTE-001,debito,689.70,Pagamento de plano de saude,saude
+169,2026-11-20,PF-SUL-014,credito,3788.60,Recebimento de salario mensal,salario
+,2026-02-11,PF-LESTE-027,debito,220.00,Registro com identificador ausente,mercado
+A12,2026-02-13,PF-OESTE-033,credito,3100.00,Registro com identificador invalido,salario
+110,2026-02-30,PF-SUL-014,debito,199.90,Compra lancada com data impossivel,farmacia
+111,15-03-2026,PJ-ORION-208,debito,88.00,Assinatura com data em formato incorreto,streaming
+112,2026-03-18,,credito,5000.00,Credito sem identificacao de cliente,transferencia
+113,2026-03-22,PJ-ALFA-102,pix,150.00,Tipo de operacao fora do padrao,transferencia
+114,2026-04-03,PF-NORTE-001,debito,abc,Valor textual em compra de rotina,mercado
+115,2026-04-07,PF-SUL-014,credito,0.00,Credito lancado com valor zero,salario
+116,2026-04-11,PF-CENTRO-311,debito,-45.90,Debito com valor negativo,saude
+117,2026-05-02,,debito,130.00,Cliente informado apenas com espaco,alimentacao
+118,2026-05-08,PF-LESTE-027,credito,,Credito com valor ausente,transferencia
+119,2026-06-01,PF-OESTE-033,deposito,77.70,Operacao com tipo nao reconhecido,transferencia
