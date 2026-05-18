@@ -45,9 +45,13 @@ Ao final da execução, o notebook:
 - gera o arquivo `grafico.png` com visualização mensal de crédito, débito e saldo
 
 ## Tecnologias utilizadas
-- Python 3
+- Python 3.13.12 (testado nesta versão)
 - `csv`
 - `json`
 - `datetime`
 - `matplotlib`
 - `pandas` na implementação opcional
+
+## Requisitos de compatibilidade
+- **Versão Python:** 3.13.12 (compatível com Python 3.10+)
+- **Sistema Operacional:** Windows 11, Linux, macOS
